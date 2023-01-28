@@ -1,6 +1,10 @@
 # RestaurantKette
 Restaurant Verwaltung
 
+![hintergrund](https://user-images.githubusercontent.com/101304191/215259867-6115e382-c44a-4ca3-8c78-aec3e76a9701.jpeg)
+
+
+
 Hallo liebe Leser 
 
 Heute stelle ich euch mein Freitagsprojekt in Swift Ui in Git mit Aufgabenstellung !
